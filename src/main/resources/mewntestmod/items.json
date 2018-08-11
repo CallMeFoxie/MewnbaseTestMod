@@ -1,0 +1,12 @@
+{
+  "itemDataList": [
+    {
+      "id": "testitem",
+      "sprite": "testitem"
+    },
+    {
+      "id": "testitem2",
+      "sprite": "testitem2"
+    }
+  ]
+}
