@@ -2,11 +2,31 @@
   "itemDataList": [
     {
       "id": "testitem",
-      "sprite": "testitem"
+      "sprite": "testitem",
+      "craftTime": 10.0,
+      "craftedIn": "crafting-station",
+      "requires": [
+        {
+          "id": "metal",
+          "quantity": 1
+        },
+        {
+          "id": "wire",
+          "quantity": 3
+        }
+      ]
     },
     {
       "id": "testitem2",
-      "sprite": "testitem2"
+      "sprite": "testitem2",
+      "craftTime": 10.0,
+      "craftedIn": "crafting-station",
+      "requires": [
+        {
+          "id": "metal",
+          "quantity": 1
+        }
+      ]
     }
   ]
 }
